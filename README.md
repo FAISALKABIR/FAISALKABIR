@@ -25,8 +25,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faisalkabir&show_icons=true&locale=en&layout=compact" alt="faisalkabir" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faisalkabir&show_icons=true&locale=en" alt="faisalkabir" /></p>
-
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=faisalkabir&show_icons=true&locale=en" alt="faisalkabir" /></p>
+<br>
+<br>
 
 <p align="center">
 <a href="https://twitter.com/faisal3952" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dephraiim" height="20" width="20" /></a>
