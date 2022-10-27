@@ -34,5 +34,3 @@
 <a href="https://www.instagram.com/faisal_kabir01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dephraiim" height="20" width="20" /></a>
 <a href="https://www.facebook.com/faisal3952/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="dephraiim" height="20" width="20" /></a>
 </p>
-<br>
-<br>
